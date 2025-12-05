@@ -1,4 +1,34 @@
-# Projeto Mobile Fokus — Timer, Buscador de CEP e Lista de Tarefas
+## 🎨 Tela Inicial
 
-Este é um aplicativo mobile desenvolvido para praticar os conceitos estudados em Programação para Dispositivos Móveis, reunindo três funcionalidades principais em uma interface moderna e intuitiva: um Timer estilo Pomodoro, um buscador de endereço por CEP e uma lista de tarefas.
-O projeto tem foco em produtividade e utiliza boas práticas de navegação, componentes reutilizáveis e integração com API externa.
+- Tela de boas-vindas com botão “Quero iniciar!”
+
+- Design moderno com ilustração de mergulhador e tema futurista.
+
+## 🚀 Tecnologias Utilizadas
+
+- Framework mobile utilizado no curso
+(React Native / Flutter / Kotlin / outro — ajuste conforme o seu projeto)
+
+- JavaScript ou TypeScript (dependendo do framework)
+
+- API ViaCEP para buscar endereços
+
+- Componentes customizados para navegação
+
+- Estilização com temas escuros e cores neon
+
+## Como Executar
+
+1.   **Clone o repositório:**
+ ```bash  
+git clone https://github.com/Priscila-Siqueira/AV2-React-Native
+cd fokus
+```
+2. **Instale as dependências:**
+```bash
+npm install
+```
+3. **Execute:**
+```bash
+npm run android
+```
